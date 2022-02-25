@@ -17,20 +17,21 @@
 
 📌 memory game (html, css, js) https://klekkwedge.github.io/my-pet-projects/js30-3.2-memory-game
 
+***
 
-1. MY CV repository: https://github.com/klekkwedge/rsschool-cv/tree/rsschool-cv-html
+> 1. MY CV repository: https://github.com/klekkwedge/rsschool-cv/tree/rsschool-cv-html
 
-2. photograph's portfolio repository: https://github.com/klekkwedge/my-pet-projects/tree/photographer-portfolio
+> 2. photograph's portfolio repository: https://github.com/klekkwedge/my-pet-projects/tree/photographer-portfolio
 
-3. custom audio player repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-1.2-audio-player
+> 3. custom audio player repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-1.2-audio-player
 
-4. custom video player repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-1.3-custom-video
+> 4. custom video player repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-1.3-custom-video
 
-5. image-galery repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-2.2-image-galery
+> 5. image-galery repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-2.2-image-galery
 
-6. movie app repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-2.3-movie-app
+> 6. movie app repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-2.3-movie-app
 
-7. memory game repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-3.2-memory-game
+> 7. memory game repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-3.2-memory-game
 <!--
 **klekkwedge/klekkwedge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
