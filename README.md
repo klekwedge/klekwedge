@@ -16,7 +16,13 @@
 📌 movie app (html, css, js, api) https://klekkwedge.github.io/my-pet-projects/js30-2.3-movie-app [^6]
 
 📌 memory game (html, css, js) https://klekkwedge.github.io/my-pet-projects/js30-3.2-memory-game [^7]
+***
+## Languages and tools:
 
+![HTML](https://img.shields.io/badge/-HTML5-2E7A4F?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-0B51C1?style=for-the-badge&logo=CSS3)
+![SASS](https://img.shields.io/badge/-Sass-B4DE70?style=for-the-badge&logo=Sass)
+![JS](https://img.shields.io/badge/-JavaScript-5324AA?style=for-the-badge&logo=JavaScript)
 ***
 
 [^1]: MY CV repository: https://github.com/klekkwedge/rsschool-cv/tree/rsschool-cv-html
