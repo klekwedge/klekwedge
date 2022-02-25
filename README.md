@@ -19,12 +19,15 @@
 ***
 ## Languages and tools:
 
-![HTML](https://img.shields.io/badge/-HTML5-2E7A4F?style=for-the-badge&logo=HTML5)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-0B51C1?style=for-the-badge&logo=CSS3)
-![SASS](https://img.shields.io/badge/-Sass-B4DE70?style=for-the-badge&logo=Sass)
+![SASS](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-5324AA?style=for-the-badge&logo=JavaScript)
-***
 
+## My contacts:
+
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/klekwedge/)
+***
 [^1]: MY CV repository: https://github.com/klekkwedge/my-cv/tree/rsschool-cv-html
 
 [^2]: photograph's portfolio repository: https://github.com/klekkwedge/my-pet-projects/tree/photographer-portfolio
@@ -38,17 +41,3 @@
 [^6]: movie app repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-2.3-movie-app
 
 [^7]: memory game repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-3.2-memory-game
-<!--
-**klekkwedge/klekkwedge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
