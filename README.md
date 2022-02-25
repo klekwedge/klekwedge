@@ -1,4 +1,18 @@
-### Hi there 👋
+# Hi there 👋
+💻 I am learning frontend web development.
+
+##My projects:
+
+📌 MY CV (html, css) https://
+
+📌 photograph's portfolio (html, css, js) https://
+
+📌 custom video player (html, css, js) https://
+
+📌 movie app (html, css, js, api) https://
+
+📌 memory game (html, css, js) https://
+
 
 <!--
 **klekkwedge/klekkwedge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
