@@ -3,7 +3,7 @@
 
 ## My projects:
 
-📌 MY CV (html, css) https://klekkwedge.github.io/rsschool-cv/ [^1]
+📌 MY CV (html, css) https://klekkwedge.github.io/my-cv/ [^1]
 
 📌 photograph's portfolio (html, css, js) https://klekkwedge.github.io/my-pet-projects/portfolio/ [^2]
 
@@ -25,7 +25,7 @@
 ![JS](https://img.shields.io/badge/-JavaScript-5324AA?style=for-the-badge&logo=JavaScript)
 ***
 
-[^1]: MY CV repository: https://github.com/klekkwedge/rsschool-cv/tree/rsschool-cv-html
+[^1]: MY CV repository: https://github.com/klekkwedge/my-cv/tree/rsschool-cv-html
 
 [^2]: photograph's portfolio repository: https://github.com/klekkwedge/my-pet-projects/tree/photographer-portfolio
 
