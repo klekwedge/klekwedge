@@ -3,19 +3,19 @@
 
 ## My projects:
 
-📌 MY CV (html, css) https://klekkwedge.github.io/rsschool-cv/
+📌 MY CV (html, css) https://klekkwedge.github.io/rsschool-cv/^[1]
 
-📌 photograph's portfolio (html, css, js) https://klekkwedge.github.io/my-pet-projects/portfolio/
+📌 photograph's portfolio (html, css, js) https://klekkwedge.github.io/my-pet-projects/portfolio/^[2]
 
-📌 custom audio player (html, css, js) https://klekkwedge.github.io/my-pet-projects/js30-1.2-audio-player
+📌 custom audio player (html, css, js) https://klekkwedge.github.io/my-pet-projects/js30-1.2-audio-player^[3]
 
-📌 custom video player (html, css, js) https://klekkwedge.github.io/my-pet-projects/js30-1.3-custom-video
+📌 custom video player (html, css, js) https://klekkwedge.github.io/my-pet-projects/js30-1.3-custom-video^[4]
 
-📌 image galery (html, css, js, api) https://klekkwedge.github.io/my-pet-projects/js30-2.2-image-galery
+📌 image galery (html, css, js, api) https://klekkwedge.github.io/my-pet-projects/js30-2.2-image-galery^[5]
 
-📌 movie app (html, css, js, api) https://klekkwedge.github.io/my-pet-projects/js30-2.3-movie-app
+📌 movie app (html, css, js, api) https://klekkwedge.github.io/my-pet-projects/js30-2.3-movie-app^[6]
 
-📌 memory game (html, css, js) https://klekkwedge.github.io/my-pet-projects/js30-3.2-memory-game
+📌 memory game (html, css, js) https://klekkwedge.github.io/my-pet-projects/js30-3.2-memory-game^[7]
 
 ***
 
