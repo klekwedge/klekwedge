@@ -19,6 +19,8 @@
 ***
 ## Languages and tools:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekkwedge)](https://github.com/anuraghazra/github-readme-stats)
+
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-0B51C1?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
