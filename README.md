@@ -16,10 +16,13 @@
 📌 movie app (html, css, js, api) https://klekkwedge.github.io/my-pet-projects/js30-2.3-movie-app [^6]
 
 📌 memory game (html, css, js) https://klekkwedge.github.io/my-pet-projects/js30-3.2-memory-game [^7]
+
+📌 my first project (html, css) https://klekkwedge.github.io/my-first-project/cuda [^8]
+
 ***
 ## Languages and tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekkwedge)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekkwedge)
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-0B51C1?style=for-the-badge&logo=CSS3)
@@ -43,3 +46,6 @@
 [^6]: movie app repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-2.3-movie-app
 
 [^7]: memory game repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-3.2-memory-game
+
+[^8]: my first project repository: https://github.com/klekkwedge/my-first-project
+
