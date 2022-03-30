@@ -3,25 +3,27 @@
 
 ## My projects:
 
-📌 MY CV (html, css) https://klekkwedge.github.io/my-cv/ [^1]
+📌 MY CV (html, scss, js) https://klekwedge.github.io/my-cv/ [^1]
 
-📌 photograph's portfolio (html, css, js) https://klekkwedge.github.io/my-pet-projects/portfolio/ [^2]
+📌 photograph's portfolio (html, scss, js) https://klekwedge.github.io/rs-projects/portfolio/ [^2]
 
-📌 custom audio player (html, css, js) https://klekkwedge.github.io/my-pet-projects/js30-1.2-audio-player [^3]
+📌 custom audio player (html, scss, js) https://klekwedge.github.io/rs-projects/js30-1.2-audio-player [^3]
 
-📌 custom video player (html, css, js) https://klekkwedge.github.io/my-pet-projects/js30-1.3-custom-video [^4]
+📌 custom video player (html, scss, js) https://klekwedge.github.io/rs-projects/js30-1.3-custom-video [^4]
 
-📌 image galery (html, css, js, api) https://klekkwedge.github.io/my-pet-projects/js30-2.2-image-galery [^5]
+📌 image galery (html, scss, js, api) https://klekwedge.github.io/rs-projects/js30-2.2-image-galery [^5]
 
-📌 movie app (html, css, js, api) https://klekkwedge.github.io/my-pet-projects/js30-2.3-movie-app [^6]
+📌 movie app (html, scss, js, api) https://klekwedge.github.io/rs-projects/js30-2.3-movie-app [^6]
 
-📌 memory game (html, css, js) https://klekkwedge.github.io/my-pet-projects/js30-3.2-memory-game [^7]
+📌 memory game (html, scss, js) https://klekwedge.github.io/rs-projects/js30-3.2-memory-game [^7]
 
-📌 my first project (html, css) https://klekkwedge.github.io/my-first-project/cuda [^8]
+📌 my first project (html, scss, js) https://klekwedge.github.io/my-first-project/cuda [^8]
+
+📌 my second project (html, scss, js) https://klekwedge.github.io/my-second-project/decor%20color%20expert/ [^9]
 
 ## Languages and tools:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekkwedge)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge)
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-0B51C1?style=for-the-badge&logo=CSS3)
@@ -32,19 +34,20 @@
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/klekwedge/)
 ***
-[^1]: MY CV repository: https://github.com/klekkwedge/my-cv/tree/rsschool-cv-html
+[^1]: MY CV repository: https://github.com/klekwedge/my-cv/tree/rsschool-cv-html
 
-[^2]: photograph's portfolio repository: https://github.com/klekkwedge/my-pet-projects/tree/photographer-portfolio
+[^2]: photograph's portfolio repository: https://github.com/klekwedge/rs-projects/tree/photographer-portfolio
 
-[^3]: custom audio player repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-1.2-audio-player
+[^3]: custom audio player repository: https://github.com/klekwedge/rs-projects/tree/js30-1.2-audio-player
 
-[^4]: custom video player repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-1.3-custom-video
+[^4]: custom video player repository: https://github.com/klekwedge/rs-projects/tree/js30-1.3-custom-video
 
-[^5]: image-galery repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-2.2-image-galery
+[^5]: image-galery repository: https://github.com/klekwedge/rs-projects/tree/js30-2.2-image-galery
 
-[^6]: movie app repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-2.3-movie-app
+[^6]: movie app repository: https://github.com/klekwedge/rs-projects/tree/js30-2.3-movie-app
 
-[^7]: memory game repository: https://github.com/klekkwedge/my-pet-projects/tree/js30-3.2-memory-game
+[^7]: memory game repository: https://github.com/klekwedge/rs-projects/tree/js30-3.2-memory-game
 
-[^8]: my first project repository: https://github.com/klekkwedge/my-first-project
+[^8]: my first project repository: https://github.com/klekwedge/my-first-project
 
+[^9]: my first project repository: https://github.com/klekwedge/my-second-project
