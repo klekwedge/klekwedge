@@ -50,4 +50,4 @@
 
 [^8]: my first project repository: https://github.com/klekwedge/my-first-project
 
-[^9]: my first project repository: https://github.com/klekwedge/my-second-project
+[^9]: my second project repository: https://github.com/klekwedge/my-second-project
