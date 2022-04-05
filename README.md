@@ -34,7 +34,7 @@
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/klekwedge/)
 ***
-[^1]: MY CV repository: https://github.com/klekwedge/my-cv/tree/rsschool-cv-html
+[^1]: MY CV repository: https://github.com/klekwedge/my-cv
 
 [^2]: photograph's portfolio repository: https://github.com/klekwedge/rs-projects/tree/photographer-portfolio
 
