@@ -17,9 +17,9 @@
 
 📌 memory game (html, scss, js) https://klekwedge.github.io/rs-projects/js30-3.2-memory-game [^7]
 
-📌 my first project (html, scss, js) https://klekwedge.github.io/my-first-project/cuda [^8]
+📌 my first project (html, scss, js) https://klekwedge.github.io/cuda/cuda [^8]
 
-📌 my second project (html, scss, js) https://klekwedge.github.io/my-second-project/decor%20color%20expert/ [^9]
+📌 my second project (html, scss, js) https://klekwedge.github.io/decor-color-expert/decor%20color%20expert/ [^9]
 
 ## Languages and tools:
 
@@ -48,6 +48,6 @@
 
 [^7]: memory game repository: https://github.com/klekwedge/rs-projects/tree/js30-3.2-memory-game
 
-[^8]: my first project repository: https://github.com/klekwedge/my-first-project
+[^8]: cuda: https://github.com/klekwedge/cuda
 
-[^9]: my second project repository: https://github.com/klekwedge/my-second-project
+[^9]: decor color expert: https://github.com/klekwedge/decor-color-expert
