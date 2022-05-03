@@ -28,7 +28,9 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-0B51C1?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-5324AA?style=for-the-badge&logo=JavaScript)
+![JS](https://img.shields.io/badge/-JavaScript-5324AA?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=Gulp&logoColor=white)
 
 ## My contacts:
 
