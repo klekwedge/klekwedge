@@ -5,7 +5,7 @@
 
 📌 MY CV (html, scss, js) https://klekwedge.github.io/my-cv/ [^1]
 
-📌 photograph's portfolio (html, scss, js) https://klekwedge.github.io/rs-projects/photographer-portfolio/index.html [^2]
+📌 photograph's portfolio (html, scss, js) https://klekwedge.github.io/rs-projects/photographer-portfolio/ [^2]
 
 📌 custom audio player (html, scss, js) https://klekwedge.github.io/rs-projects/js30-1.2-audio-player [^3]
 
