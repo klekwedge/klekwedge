@@ -3,7 +3,7 @@
 
 ## My projects:
 
-📌 MY CV (html, scss, js) https://klekwedge.github.io/my-cv/dist [^1]
+📌 MY CV (html, scss, js) https://klekwedge.github.io/my-cv/ [^1]
 
 📌 photograph's portfolio (html, scss, js) https://klekwedge.github.io/rs-projects/photographer-portfolio/index.html [^2]
 
