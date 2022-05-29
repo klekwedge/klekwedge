@@ -56,4 +56,4 @@
 
 [^9]: cuda: https://github.com/klekwedge/cuda
 
-[^9]: decor color expert: https://github.com/klekwedge/decor-color-expert
+[^10]: decor color expert: https://github.com/klekwedge/decor-color-expert
