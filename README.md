@@ -25,7 +25,7 @@
 
 ## Languages and tools:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge&langs_count=10)
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-0B51C1?style=for-the-badge&logo=CSS3)
