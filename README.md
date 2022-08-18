@@ -41,7 +41,9 @@
 
 ## My contacts:
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/klekwedge/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/klekwedge/)
+
 ***
 [^1]: MY CV repository: https://github.com/klekwedge/my-cv
 
