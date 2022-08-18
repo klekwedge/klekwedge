@@ -1,9 +1,9 @@
 # Hi there 👋
 
-💻 I’m learning frontend web development.
-😏 I’m currently learning Next.js
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/klekwedge/) or [Facebook](https://www.facebook.com/klekwedge)
-👨‍💻 Read more about my projects at https://klekwedge.github.io/my-cv/
+- 💻 I’m learning frontend web development.
+- 😏 I’m currently learning Next.js
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/klekwedge/) or [Facebook](https://www.facebook.com/klekwedge)
+- 👨‍💻 Read more about my projects at https://klekwedge.github.io/my-cv/ (Updated on 6 Jul)
 
 ## Languages and tools:
 
