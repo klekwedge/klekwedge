@@ -1,11 +1,9 @@
 # Hi there 👋
-💻 I am learning frontend web development.
 
-## My projects:
-
-📌 MY CV (html, scss, js) https://klekwedge.github.io/my-cv/ [^1]
-
-📌 Simetra app (html, scss, js, python) https://opd.strdenis.com/ [^2]
+💻 I’m learning frontend web development.
+😏 I’m currently learning Next.js
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/klekwedge/) or [Facebook](https://www.facebook.com/klekwedge)
+👨‍💻 Read more about my projects at https://klekwedge.github.io/my-cv/
 
 ## Languages and tools:
 
@@ -27,8 +25,3 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/klekwedge/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/klekwedge/)
-
-***
-[^1]: MY CV repository: https://github.com/klekwedge/my-cv
-
-[^2]: Simetra app repository: https://github.com/AnoMorCH/simetra
