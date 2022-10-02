@@ -25,7 +25,7 @@
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=ReactRouter&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=ChakraUI&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
-
+![Pug](https://img.shields.io/badge/-Pug-A86454?style=for-the-badge&logo=Pug&logoColor=white)
 
 ## My contacts:
 
