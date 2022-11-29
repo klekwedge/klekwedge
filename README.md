@@ -2,7 +2,7 @@
 
 - 💻 I’m learning frontend web development.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/klekwedge/) or [Facebook](https://www.facebook.com/klekwedge)
-- 👨‍💻 Read more about my projects at https://klekwedge-cv.vercel.app/ (Updated on 24 Nov)
+- 👨‍💻 Read more about my projects on my [website](https://klekwedge-cv.vercel.app/) (Updated on 24 Nov)
 
 ## Languages and tools:
 
