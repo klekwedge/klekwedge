@@ -4,10 +4,11 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/klekwedge/) or [Facebook](https://www.facebook.com/klekwedge)
 - 👨‍💻 Read more about my projects on my [website](https://klekwedge-cv.vercel.app/) (Updated on 24 Nov)
 
-## Languages and tools:
+## Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge&langs_count=10)
 
+## Tools:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-0B51C1?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
