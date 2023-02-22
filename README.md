@@ -6,7 +6,7 @@
 
 ## Statistics:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge&langs_count=10&theme=tokyonight)
 
 ![Klekwedge's GitHub stats](https://github-readme-stats.vercel.app/api?username=klekwedge&show_icons=true&theme=tokyonight)
 
