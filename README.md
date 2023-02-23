@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/klekwedge/) or [Facebook](https://www.facebook.com/klekwedge)
 - 👨‍💻 Read more about my projects on my [website](https://klekwedge-cv.vercel.app/) (Updated on 24 Nov)
 
-## Statistics:
+## 📚 Github Status:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge&layout=compact&langs_count=10&theme=tokyonight)
 
@@ -14,7 +14,7 @@
   <img src="https://streak-stats.demolab.com?user=klekwedge&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
 </p>
 
-## Tools:
+## 🛠 Tools:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-0B51C1?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
@@ -38,10 +38,10 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 ![Pug](https://img.shields.io/badge/-Pug-A86454?style=for-the-badge&logo=Pug&logoColor=white)
 
-## Codewars:
+## ⌨ Codewars:
 ![Codewars](https://www.codewars.com/users/klekwedge/badges/large)
 
-## My contacts:
+## 🌐️ Reach me at:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/klekwedge/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/klekwedge/)
