@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=5000&width=600&lines=Welcome+to+klekwedge's+GitHub+profille!)](https://git.io/typing-svg)
 # Hi there 👋
 
 - 💻 I’m learning frontend web development.
