@@ -4,10 +4,10 @@
 ## 📄 A few things about me:
 
 - 💻 I’m learning frontend web development
-- ⚛️ I am passionate about building websites with React
+- ⚛️ I’m passionate about building websites with React
 - 🌐️ I like learning about new technologies
-- 👨‍💻 Read more about my projects on my website (Updated on 24 Nov)
-- 📫 How to reach me: Linkedin or Facebook
+- 👨‍💻 Read more about my projects on my [website](https://klekwedge-cv.vercel.app/) (Updated on 24 Nov))
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/klekwedge/) or [Facebook](https://www.facebook.com/klekwedge)
 
 ## 📚 Github stats:
 
