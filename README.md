@@ -17,8 +17,6 @@
 ## 📚 Github stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge&layout=compact&langs_count=10&theme=tokyonight)
-
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=klekwedge&show_icons=true&theme=tokyonight" height="180">
   <img src="https://streak-stats.demolab.com?user=klekwedge&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="180">
