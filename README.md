@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=5000&width=600&lines=Welcome+to+klekwedge's+GitHub+profille!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=5000&width=600&lines=Welcome+to+klekwedge's+GitHub+profille!)
 
 <h1 align="center">Hello, I'm Andrey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 
