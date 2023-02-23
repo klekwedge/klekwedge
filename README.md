@@ -1,11 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=5000&width=600&lines=Welcome+to+klekwedge's+GitHub+profille!)](https://git.io/typing-svg)
 # Hi there 👋
 
-- 💻 I’m learning frontend web development.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/klekwedge/) or [Facebook](https://www.facebook.com/klekwedge)
-- 👨‍💻 Read more about my projects on my [website](https://klekwedge-cv.vercel.app/) (Updated on 24 Nov)
+## 📄 A few things about me:
 
-## 📚 Github Status:
+- 💻 I’m learning frontend web development
+- ⚛️ I am passionate about building websites with React
+- 🌐️ I like learning about new technologies
+- 👨‍💻 Read more about my projects on my website (Updated on 24 Nov)
+- 📫 How to reach me: Linkedin or Facebook
+
+## 📚 Github stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge&layout=compact&langs_count=10&theme=tokyonight)
 
@@ -41,7 +45,7 @@
 ## ⌨ Codewars:
 ![Codewars](https://www.codewars.com/users/klekwedge/badges/large)
 
-## 🌐️ Reach me at:
+## 📫 Reach me at:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/klekwedge/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/klekwedge/)
