@@ -11,13 +11,14 @@
 - 💻 I’m learning frontend web development
 - ⚛️ I’m passionate about building websites with React
 - 🌐️ I like learning about new technologies
-- 👨‍💻 Read more about my projects on my [website](https://klekwedge-cv.vercel.app/) (Updated on 24 Nov))
+- 👨‍💻 Read more about my projects on my [website](https://klekwedge-cv.vercel.app/) (Updated on 24 Feb))
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/klekwedge/) or [Facebook](https://www.facebook.com/klekwedge)
 
 ## 📚 Github stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge&layout=compact&langs_count=8&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api?username=klekwedge&show_icons=true&theme=tokyonight">
+<img>
+<img src="https://github-readme-stats.vercel.app/api?username=klekwedge&show_icons=true&theme=tokyonight" height="180em">
 
 <img src="https://streak-stats.demolab.com?user=klekwedge&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
 
