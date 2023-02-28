@@ -49,8 +49,12 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 ![Pug](https://img.shields.io/badge/-Pug-A86454?style=for-the-badge&logo=Pug&logoColor=white)
 
-## ⌨️ Codewars:
+## ⌨️ Problem solving:
+### Codewars
 ![Codewars](https://www.codewars.com/users/klekwedge/badges/large)
+
+### LeetCode
+![LeetCode](https://leetcode-stats-six.vercel.app/api?username=klekwedge&theme=dark)
 
 ## 📫 Reach me at:
 
