@@ -39,6 +39,7 @@
 ![Vuex](https://img.shields.io/badge/-Vuex-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Vue Router](https://img.shields.io/badge/-Vue_Router-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 
 ### 🔧 Basic:
 
