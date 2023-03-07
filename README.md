@@ -15,10 +15,14 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/klekwedge/) or [Facebook](https://www.facebook.com/klekwedge)
 
 ## 📚 Github stats:
-
+### GitHub Profile Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge&layout=compact&langs_count=8&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api?username=klekwedge&show_icons=true&theme=tokyonight" height="180em">
+
+### Streak Stats
 <img src="https://streak-stats.demolab.com?user=klekwedge&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
+
+### Activity Graph
 <img alt="klekwedge's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=klekwedge&theme=react" />
 
 ## 🛠️ Tools
