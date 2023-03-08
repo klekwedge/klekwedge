@@ -26,7 +26,7 @@
 <img alt="klekwedge's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=klekwedge&theme=react" />
 
 ### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=klekwedge&title=MultiLanguage,Commits,PullRequest,Repositories&theme=onedark" />
+<img width='100%' src="https://github-profile-trophy.vercel.app/?username=klekwedge&title=MultiLanguage,Commits,PullRequest,Repositories&theme=onedark" />
 
 ## 🛠️ Tools
 ### 🔨 Experienced:
