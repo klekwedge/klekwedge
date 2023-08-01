@@ -41,6 +41,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=ReactRouter&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux_/_Redux_Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=for-the-badge&logo=AntDesign&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=ChakraUI&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Vuex](https://img.shields.io/badge/-Vuex-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
