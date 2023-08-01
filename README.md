@@ -12,7 +12,7 @@
 - ⚛️ I’m passionate about building websites with React
 - 🌐️ I like learning about new technologies
 - 📘 Computer Science Student
-- 👨‍💻 Read more about my projects on my [website](https://klekwedge-cv.vercel.app/) (Updated on 19 Mar)
+- 👨‍💻 Read more about my projects on my [website](https://klekwedge-cv.vercel.app/) (Updated on 01 Aug)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/klekwedge/) or [Facebook](https://www.facebook.com/klekwedge)
 
 ## 📚 Github stats:
