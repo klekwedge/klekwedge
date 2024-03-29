@@ -23,9 +23,6 @@
 ### 🔥 Статистика серий
 <img src="https://streak-stats.demolab.com?user=klekwedge&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
 
-### ⚡ График активности
-<img alt="klekwedge's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=klekwedge&theme=react" />
-
 ### 🏆 Трофеи
 <img width='100%' src="https://github-profile-trophy.vercel.app/?username=klekwedge&title=MultiLanguage,Commits,PullRequest,Repositories&theme=onedark" />
 
