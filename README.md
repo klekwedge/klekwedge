@@ -71,7 +71,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)
 
 ## ⌨️ Решение задач:
-### Кодовые войны
+### Codewars
 ![Codewars](https://www.codewars.com/users/klekwedge/badges/large)
 
 ### LeetCode
