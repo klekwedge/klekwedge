@@ -1,7 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=5000&width=600&lines=Добро+пожаловать+в+мой+профиль!)
-
-<h1 align="center">Привет, я Андрей <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
-
 <p align="center">
   <img src="assets/header.png">
 </p>
