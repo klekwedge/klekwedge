@@ -15,8 +15,8 @@
 
 ### 🔨 Продвинутый уровень:
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-0B51C1?style=for-the-badge&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-0B51C1?style=for-the-badge&logo=CSS)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-5324AA?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -55,12 +55,13 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)
 
-## 📫 Контакты:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/klekwedge/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/klekwedge/)
-
 
 ## 📚 Статистика профиля Github:
 ![Часто используемые ЯП](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge&layout=compact&langs_count=8&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api?username=klekwedge&show_icons=true&theme=tokyonight" height="180em">
+
+
+## 📫 Контакты:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/klekwedge/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/klekwedge/)
 
