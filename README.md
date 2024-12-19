@@ -38,7 +38,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=Gulp&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-![React-Query](https://img.shields.io/badge/-reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React-Query](https://img.shields.io/badge/-react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-Testing_Library-E33332?style=for-the-badge&logo=Testing-Library&logoColor=white)
