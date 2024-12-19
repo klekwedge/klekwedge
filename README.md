@@ -10,8 +10,7 @@
 - 🚀 Стремлюсь писать чистый и поддерживаемый код, используя TypeScript, ESLint, и Prettier
 - 🌍 Интересуюсь развитием технологий, связанных с AI
 
-## 📚 Статистика Github:
-### 📌 Статистика профиля GitHub
+## 📚 Статистика профиля Github:
 ![Часто используемые ЯП](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge&layout=compact&langs_count=8&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api?username=klekwedge&show_icons=true&theme=tokyonight" height="180em">
 
