@@ -62,13 +62,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)
 
-## ⌨️ Решение задач:
-### Codewars
-![Codewars](https://www.codewars.com/users/klekwedge/badges/large)
-
-### LeetCode
-![LeetCode](https://leetcode-stats-six.vercel.app/api?username=klekwedge&theme=dark)
-
 ## 📫 Контакты:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/klekwedge/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/klekwedge/)
