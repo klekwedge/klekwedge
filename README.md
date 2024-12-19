@@ -18,7 +18,7 @@
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux_/_Redux_Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![Mobx](https://img.shields.io/badge/-Mobx-FF9955?style=for-the-badge&logo=Mobx&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=ReactRouter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
@@ -32,6 +32,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-0B51C1?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ### 🔧 Базовый уровень:
@@ -50,7 +51,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white)
 ![Redux-Saga](https://img.shields.io/badge/-Redux_Saga-999999?style=for-the-badge&logo=Redux-Saga&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 ![Pug](https://img.shields.io/badge/-Pug-A86454?style=for-the-badge&logo=Pug&logoColor=white)
 
