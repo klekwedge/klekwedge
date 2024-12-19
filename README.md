@@ -15,12 +15,6 @@
 ![Часто используемые ЯП](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge&layout=compact&langs_count=8&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api?username=klekwedge&show_icons=true&theme=tokyonight" height="180em">
 
-### 🔥 Статистика серий
-<img src="https://streak-stats.demolab.com?user=klekwedge&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
-
-### 🏆 Трофеи
-<img width='100%' src="https://github-profile-trophy.vercel.app/?username=klekwedge&title=MultiLanguage,Commits,PullRequest,Repositories&theme=onedark" />
-
 ## 🛠️ Инструменты
 ### 🔨 Продвинутый уровень:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
