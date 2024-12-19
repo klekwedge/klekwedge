@@ -15,8 +15,8 @@
 
 ### 🔨 Продвинутый уровень:
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-0B51C1?style=for-the-badge&logo=CSS)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-0B51C1?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-5324AA?style=for-the-badge&logo=JavaScript&logoColor=white)
