@@ -42,7 +42,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-Testing_Library-E33332?style=for-the-badge&logo=Testing-Library&logoColor=white)
-![React-Hook-Form](https://img.shields.io/badge/-reacthookform-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![React-Hook-Form](https://img.shields.io/badge/-react_hook_form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
