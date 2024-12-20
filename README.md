@@ -54,12 +54,6 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 ![Pug](https://img.shields.io/badge/-Pug-A86454?style=for-the-badge&logo=Pug&logoColor=white)
 
-
-## 📚 Статистика профиля Github:
-![Часто используемые ЯП](https://github-readme-stats.vercel.app/api/top-langs/?username=klekwedge&layout=compact&langs_count=8&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api?username=klekwedge&show_icons=true&theme=tokyonight" height="180em">
-
-
 ## 📫 Контакты:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/klekwedge/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/klekwedge/)
