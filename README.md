@@ -12,41 +12,66 @@
 
 ## 🛠️ Инструменты
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
 
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
-![Mobx](https://img.shields.io/badge/-Mobx-FF9955?style=for-the-badge&logo=Mobx&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mobx/mobx-original.svg" alt="MobX" title="MobX" width="40" height="40" />
+
 ![React-Query](https://img.shields.io/badge/-react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" title="Jest" width="40" height="40" />
+
 ![Testing-Library](https://img.shields.io/badge/-Testing_Library-E33332?style=for-the-badge&logo=Testing-Library&logoColor=white)
-![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=ReactRouter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=Gulp&logoColor=white)
-![React-Hook-Form](https://img.shields.io/badge/-react_hook_form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="React Router" title="React Router" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" alt="Gulp" title="Gulp" width="40" height="40" />
+
+![React-Hook-Form](https://img.shields.io/badge/-react_hook_form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)  
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white)
-![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=for-the-badge&logo=AntDesign&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" alt="Ant Design" title="Ant Design" width="40" height="40" />
+
 ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=ChakraUI&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
-![Vuex](https://img.shields.io/badge/-Vuex-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
-![Vue Router](https://img.shields.io/badge/-Vue_Router-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
-![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-0B51C1?style=for-the-badge&logo=CSS3)
-![SASS](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" alt="Vuetify" title="Vuetify" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="SASS" title="SASS" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" />
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)  
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
+
 
 ## 📫 Контакты:
 
