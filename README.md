@@ -38,7 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />&nbsp;
 
-<img src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png?v=1957906027165254400" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/-react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />&nbsp;
 
 
 ![React-Query](https://img.shields.io/badge/-react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
