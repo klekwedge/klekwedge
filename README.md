@@ -22,30 +22,24 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-Testing_Library-E33332?style=for-the-badge&logo=Testing-Library&logoColor=white)
-
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=ReactRouter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=Gulp&logoColor=white)
-
 ![React-Hook-Form](https://img.shields.io/badge/-react_hook_form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white)
-
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=for-the-badge&logo=AntDesign&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=ChakraUI&logoColor=white)
-
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Vuex](https://img.shields.io/badge/-Vuex-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Vue Router](https://img.shields.io/badge/-Vue_Router-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white)
-
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-0B51C1?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white)
