@@ -34,6 +34,7 @@
 <img src="./assets/mantine.svg" alt="Mantine" title="Mantine" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" title="Material UI" width="40" height="40" />&nbsp;
 <img src="./assets/chart-js.svg" alt="Chart.js" title="Chart.js" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg"  alt="Framet motion" title="Framet motion" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40" />&nbsp;
 <img src="./assets/vuex.svg" alt="Vuex" title="Vuex" width="40" height="40" />&nbsp;
 <img src="./assets/pinia.svg" alt="Pinia" title="Pinia" width="40" height="40" />&nbsp;
