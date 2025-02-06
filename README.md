@@ -20,14 +20,20 @@
 <img src="./assets/react-query.svg" alt="React Query" title="React Query" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" title="Jest" width="40" height="40" />&nbsp;
-<img src="./assets/react-testing-library.png" alt="React Testing Library" title="React Testing Library" width="40" height="40" />&nbsp;
+<img src="./assets/react-testing-library.svg" alt="React Testing Library" title="React Testing Library" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="Vitest" title="Vitest" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="React Router" title="React Router" width="40" height="40" />&nbsp;
+<img src="./assets/react-hook-form.svg" alt="React Hook Form" title="React Hook Form" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" alt="Gulp" title="Gulp" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" alt="Ant Design" title="Ant Design" width="40" height="40" />&nbsp;
+<img src="./assets/chakra-ui-icon.svg" alt="Chakra UI" title="Chakra UI" width="40" height="40" />&nbsp;
+<img src="./assets/mantine.svg" alt="Mantine" title="Mantine" width="40" height="40" />&nbsp;
+<img src="./assets/chart-js.svg" alt="Chart.js" title="Chart.js" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40" />&nbsp;
+<img src="./assets/vuex.svg" alt="Vuex" title="Vuex" width="40" height="40" />&nbsp;
+<img src="./assets/pinia.svg" alt="Pinia" title="Pinia" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" alt="Vuetify" title="Vuetify" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />&nbsp;
@@ -41,13 +47,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />&nbsp;
-
-<img src="./assets/chakra-ui-icon.svg" alt="Chakra UI" title="Chakra UI" width="40" height="40" />&nbsp;
-<img src="./assets/react-hook-form.svg" alt="React Hook Form" title="React Hook Form" width="40" height="40" />&nbsp;
-
-
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white)
-
 
 ## 📫 Контакты:
 
