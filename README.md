@@ -10,8 +10,9 @@
 - 🚀 Стремлюсь писать чистый и поддерживаемый код, используя TypeScript, ESLint, и Prettier
 - 🌍 Интересуюсь развитием технологий, связанных с AI
 
-
 ## 🛠️ Инструменты
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -51,4 +52,3 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/klekwedge)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/klekwedge/)
-
