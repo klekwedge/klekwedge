@@ -26,6 +26,7 @@
 <img src="./assets/react-hook-form.svg" alt="React Hook Form" title="React Hook Form" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="40" height="40" />&nbsp;
+<img src="./assets/vite.svg" alt="Vite" title="Vite" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" alt="Gulp" title="Gulp" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" alt="Ant Design" title="Ant Design" width="40" height="40" />&nbsp;
 <img src="./assets/chakra-ui-icon.svg" alt="Chakra UI" title="Chakra UI" width="40" height="40" />&nbsp;
