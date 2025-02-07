@@ -2,7 +2,7 @@
   <img src="assets/header.png">
 </p>
 
-## 📄 Несколько слов обо мне:
+## 📄 Несколько слов обо мне
 
 - 💻 Frontend разработчик
 - ⚛️ Увлечен созданием интерактивных веб-приложений с помощью React
@@ -10,7 +10,7 @@
 - 🚀 Стремлюсь писать чистый и поддерживаемый код, используя TypeScript, ESLint, и Prettier
 - 🌍 Интересуюсь развитием технологий, связанных с AI
 
-## 🛠️ Инструменты
+## 🛠️ Навыки
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />&nbsp;
@@ -59,7 +59,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" />&nbsp;
 
 
-## 📫 Контакты:
+## 📫 Контакты
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/klekwedge)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/klekwedge/)
